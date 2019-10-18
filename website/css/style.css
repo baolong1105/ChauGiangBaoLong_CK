@@ -18,6 +18,7 @@ sua loi git b2
 sua loi git c2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 version tag v2.1.0
 
 featuer3
@@ -25,3 +26,11 @@ sua loi git a3
 sua loi git b3
 sua loi git c3
 
+=======
+version tag v2.1.0
+
+sua loi hotfix4
+a4
+sua loi hotfix4
+b4
+>>>>>>> hotfix4
